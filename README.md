@@ -1,2 +1,3 @@
 # Kaggle
-Kaggle not Taggle lol
+
+Feburay 2023 : Finally became a contributor ! 🎉
