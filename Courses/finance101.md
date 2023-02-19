@@ -1,4 +1,4 @@
-Financial Models
+# Financial Models
 Trading used to take place primarily at physical stock exchanges, with traders shouting prices and quantities into a sea of bodies.
 
 
