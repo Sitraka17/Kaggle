@@ -14,3 +14,7 @@ Thus 100 moves per seconds.
 
 
 If money is lent with an annual interest rate of *1%* compounded continuously, about how long would it take for the money to double?
+
+Explanation 
+The value of the initial amount,  P, after n years is P⋅ e^(0.01 n) . Setting this equal to � 2P gives � = ln ⁡ ( 2 ) 0.01 ≈ 69.
+When the interest rate is this low, it's likely people will look to other forms of investment to get a return on their capital.
