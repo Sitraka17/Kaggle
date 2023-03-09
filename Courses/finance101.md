@@ -11,3 +11,6 @@ As the trading world — like the rest of the world — has moved digital, the g
 The massive amount of trading data — and the frequency at which trading occurs — is a major reason why quantitative methods and automated algorithms have become a bedrock of Wall Street. The New York Stock Exchange (NYSE) sees between 2 and 3 million separate trades on a standard day. The trading hours are  9: 30 30am to 4: 00 00pm ( 23 , 400 seconds).
 
 Thus 100 moves per seconds. 
+
+
+If money is lent with an annual interest rate of *1%* compounded continuously, about how long would it take for the money to double?
