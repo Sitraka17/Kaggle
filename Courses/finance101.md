@@ -21,3 +21,4 @@ When the interest rate is this low, it's likely people will look to other forms 
 
 
 Another use of probability - especially in quantitative finance - is modeling the likelihood of change. For example, you can say that a stock will go up or down with some probability over some time interval. This type of model, when taken at very small time intervals, actually forms the basis of some more complex models in quantitative finance.
+
