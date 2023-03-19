@@ -9,7 +9,7 @@ It seems that people make 5 months to make it. Thus, August or September sounds 
 ## Go to know : 
 🥉 Bronze = 5 Votes
    🥈 Silver = 20 Votes
-        Gold = 50 Votes
+       🥇 Gold = 50 Votes 
 
 
 # TDL : 
