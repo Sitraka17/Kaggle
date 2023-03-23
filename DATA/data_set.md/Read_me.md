@@ -1,5 +1,5 @@
 # Datasets
-Explore, analyze, and share quality data.
+Explore, Analyze, and Share quality data.
 
 # Types of Datasets
 
