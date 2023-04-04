@@ -8,8 +8,14 @@ It seems that people make 5 months to make it. Thus, August or September sounds 
 
 ## Go to know : 
 🥉 Bronze = 5 Votes
+
    🥈 Silver = 20 Votes
+   
        🥇 Gold = 50 Votes 
+       
+       
+
+(04/2023) Up to date I've 3 Bronze medals in Notebooks competition. 
 
 
 # TDL : 
