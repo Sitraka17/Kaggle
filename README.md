@@ -22,3 +22,7 @@ It seems that people make 5 months to make it. Thus, August or September sounds 
 # TDL : 
 
 [] Try to do the Housing Predictions
+
+[] Go further than EDA 
+
+[] OLS
