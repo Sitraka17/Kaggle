@@ -26,3 +26,7 @@ It seems that people make 5 months to make it. Thus, August or September sounds 
 [] Go further than EDA 
 
 [] OLS
+
+
+
+https://www.kaggle.com/code/vencerlanz09/chatgpt-tweets-visual-eda-and-sentiment-analysis/comments
