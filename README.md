@@ -15,7 +15,6 @@ EDA Expert lol
        🥇 Gold = 50 Votes 
        
        
-
 (04/2023) Up to date I've 3 Bronze medals in Notebooks competition. 
 
 
