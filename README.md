@@ -31,9 +31,6 @@ EDA Expert lol
 
 https://www.kaggle.com/code/vencerlanz09/chatgpt-tweets-visual-eda-and-sentiment-analysis/comments
 
-
-
-
 # For Culture 
 
 We are concerned with four types of data: 
