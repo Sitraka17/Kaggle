@@ -17,8 +17,6 @@ EDA Expert lol
        
 (04/2023) Up to date I've 3 Bronze medals in Notebooks competition. 
 
-
-
 # TDL : 
 
 [] Try to do the Housing Predictions
@@ -27,7 +25,7 @@ EDA Expert lol
 
 [] OLS
 
-
+FInsih COurse 
 
 https://www.kaggle.com/code/vencerlanz09/chatgpt-tweets-visual-eda-and-sentiment-analysis/comments
 
